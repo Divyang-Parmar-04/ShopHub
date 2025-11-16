@@ -1,4 +1,4 @@
-# ShopNow – React + Tailwind E-Commerce App (Local JSON Storage)
+# ShopHub – React + Tailwind E-Commerce App (Local JSON Storage)
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.0-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com)

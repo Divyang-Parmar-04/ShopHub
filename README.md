@@ -2,7 +2,6 @@
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.0-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A **fully functional e-commerce web application** built with **React**, **Tailwind CSS**, and **React Router**.  
 All data (users, products, cart, orders) is stored in **`localStorage`** as JSON — **no backend or database required**.
@@ -226,16 +225,9 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## License
-
-This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
-
----
-
 ## Author
 
-**Built with love by [Your Name]**  
-Powered by [xAI Grok](https://x.ai)
+**Built with love by Divyang Parmar**  
 
 ---
 
